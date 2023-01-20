@@ -18,11 +18,11 @@
 ![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?style=for-the-badge&&logo=Anaconda&logoColor=white)
 
 ### 系统
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&&logo=Intel&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&&logo=windows&logoColor=white)
 
 ### 开发板
-![Raspberry](https://img.shields.io/badge/-RaspberryPi-A22846?style=for-the-badge&&logo=RaspberryPi&logoColor=white)
+![Raspberry](https://img.shields.io/badge/-RaspberryPi-A22846?style=for-the-badge&&logo=ubuntu&logoColor=white)
 ![Espressif](https://img.shields.io/badge/-Espressif-E7352C?style=for-the-badge&&logo=Espressif&logoColor=white)
 
 ## 统计
