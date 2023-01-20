@@ -1,7 +1,5 @@
 <img align=right src='https://github.githubassets.com/images/mona-whisper.gif' />
 
-求求给个Star吧~
-
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=xiayingLIULI)
 
 ## 技能树
@@ -20,10 +18,6 @@
 ### 系统
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&&logo=windows&logoColor=white)
-
-### 开发板
-![Intel](https://img.shields.io/badge/?style=for-the-badge&&logo=Intel&logoColor=white)
-![Espressif](https://img.shields.io/badge/-Rockchip?style=for-the-badge&&logo=Rockchip&logoColor=white)
 
 ## 统计
 <!--      &hide_border=true           -->
