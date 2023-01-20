@@ -22,7 +22,7 @@
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&&logo=windows&logoColor=white)
 
 ### 开发板
-![Raspberry](https://img.shields.io/badge/-RaspberryPi-A22846?style=for-the-badge&&logo=ubuntu&logoColor=white)
+![Raspberry](https://img.shields.io/badge/-RaspberryPi-A22846?style=for-the-badge&&logo=Intel&logoColor=white)
 ![Espressif](https://img.shields.io/badge/-Espressif-E7352C?style=for-the-badge&&logo=Espressif&logoColor=white)
 
 ## 统计
