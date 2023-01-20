@@ -2,7 +2,7 @@
 
 求求给个Star吧~
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=SinKy-Yan)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=xiayingLIULI)
 
 ## 技能树
 ### 语言
@@ -18,7 +18,7 @@
 ![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?style=for-the-badge&&logo=Anaconda&logoColor=white)
 
 ### 系统
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&&logo=ubuntu&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&&logo=Intel&logoColor=white)
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&&logo=windows&logoColor=white)
 
 ### 开发板
